@@ -1,7 +1,7 @@
-require "angular-ui-router-rails/version"
+require "angular-material-icons-rails/version"
 
 module AngularUI
-  module UIRouter
+  module MaterialIcons
     module Rails
       class Engine < ::Rails::Engine
       end

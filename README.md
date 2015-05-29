@@ -1,13 +1,13 @@
-## angular-ui-router-rails
+## angular-material-icons-rails
 
-angular-ui-router-rails (0.2.12.0) wraps the [Angular UI Router](https://github.com/angular-ui/ui-router) library for use in Rails 3.1 and above. Assets will minify automatically during production.
+angular-material-icons-rails wraps the [Angular Material Icons](https://github.com/klarsys/angular-material-icons) library for use in Rails 3.1 and above. Assets will minify automatically during production.
 
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'angular-ui-router-rails'
+    gem 'angular-material-icons-rails'
 
 And then execute:
 
@@ -15,14 +15,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install angular-ui-router-rails
+    $ gem install angular-material-icons-rails
 
 
 ## Usage
 
 Add the forollowing directive to your Javascript manifest file (application.js):
 
-    //= require angular-ui-router
+    //= require angular-material-icons
 
-
-reference by  [iven/angular-ui-router-rails](https://github.com/angular-ui/ui-router)
